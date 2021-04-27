@@ -1,0 +1,9 @@
+.title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  font-weight: 600;
+
+  color: rgb(49, 49, 49);
+  text-shadow: 0px 0px 2px rgb(0, 0, 0);
+}
